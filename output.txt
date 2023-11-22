@@ -36,7 +36,7 @@ output:
 
 Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the largest triangle count. In case of ties, you can randomly select the top 5 vertices?
 output:
-(count, id)
+(id, count)
 49 15666
 195 12456
 398 11590
