@@ -1,4 +1,3 @@
-Copy code
 # Google Colab Notebook - README
 
 ## Overview
