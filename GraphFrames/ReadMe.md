@@ -4,7 +4,7 @@
 
 This project involves using Spark GraphX/GraphFrame to analyze social network data from a chosen dataset available from the SNAP repository. The goal is to construct a graph and run various queries and algorithms on the graph to derive meaningful insights.
 
-This Google Colab notebook contains code and content related to [https://colab.research.google.com/drive/15mxw4AmSsrTmmAzUdCi6MTddz2f3_LLF?usp=sharing](link). The notebook is designed to be run in Google Colab, a cloud-based platform for executing Python code collaboratively.
+This Google Colab notebook contains code and content related to [link](https://colab.research.google.com/drive/15mxw4AmSsrTmmAzUdCi6MTddz2f3_LLF?usp=sharing). The notebook is designed to be run in Google Colab, a cloud-based platform for executing Python code collaboratively.
 
 ## Steps to Reproduce in Google Colab
 
